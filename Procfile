@@ -1,0 +1,2 @@
+web: python movies_recommendation_system.py
+worker: python movies_recommendation_system.py
