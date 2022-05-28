@@ -1,1 +1,1 @@
-web: streamlit run movies_recommendation_system.py
+web: sh setup.sh && streamlit run movies_recommendation_system.py
